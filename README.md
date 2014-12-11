@@ -1,0 +1,4 @@
+findata
+=======
+
+Analytics for finance
